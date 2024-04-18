@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/wupsendemogame.unity
+    path: Assets/Scenes/Main.unity
     guid: 394a72ee1e0528249b64d99c02bc4271
   m_configObjects: {}
